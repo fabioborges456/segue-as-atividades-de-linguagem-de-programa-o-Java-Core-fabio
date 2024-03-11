@@ -1,0 +1,93 @@
+1) Defina com suas palavras o que é Java?
+
+Java é uma linguagem de programação e plataforma de computação 
+liberada pela primeira vez pela Sun Microsystems em 1995.
+
+
+2) Defina com suas palavras o que é plataforma Java?
+
+A plataforma Java é composta atualmente por quatro edições para segmentos 
+específicos de aplicações, a saber: Java EE, Java SE, Java ME e JavaFX.
+
+
+3) Defina com suas palavras o que é linguagem de programação Java?
+
+Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede 
+que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida,
+segura e confiável para codificar tudo,
+
+4) Defina com suas palavras o que é editor de texto? 
+Cite exemplos.
+Editor de texto é um software ou ferramenta online que permite 
+a redação e edição de peças de conteúdo escrito.
+Os exemplos mais conhecidos de editor de texto são o
+Microsoft Word e o Google Docs.
+
+
+5) Defina com suas palavras o que é IDE?
+Cite exemplos.
+Um ambiente de desenvolvimento integrado (IDE)
+Visual Studio Code (VS Code)
+Eclipse.
+IntelliJ IDEA.
+PHP Storm.
+PyCharm.
+Xcode.
+Android Studio.
+
+
+6) Cite cinco exemplos de IDE que podem ser utilizadas para 
+desenvolver a linguagem de programação Java.
+
+ntelliJ IDEA
+BlueJ
+MyEclipse
+Xcode
+Visual Studio Code (VS Code)
+
+
+7) Defina com suas palavras o que é a sigla JVM?
+
+Java Virtual Machine ou Máquina Virtual Java é um 
+programa que carrega e executa os aplicativos Java.
+
+
+8) Explique com suas palavras o conteúdo de uma JVM.
+
+O HotSpot JVM é a implementação padrão da Oracle e é amplamente utilizado.
+Ele é conhecido por seu desempenho e recursos avançados, 
+como o compilador Just-in-Time (JIT) e o Garbage Collector 
+(Coletor de Lixo) de última geração.
+
+
+9)Explique com suas palavras o que é Projeto.
+Um projeto?
+é simplesmente um conjunto de tarefas que 
+transformam uma ideia em algo - uma entrega.
+
+10) Explique com suas palavras o que é pacote.
+
+conjunto de classes localizadas na mesma estrutura 
+hierárquica de diretórios
+
+11) Explique com suas palavras o que é Classe.
+
+Uma classe define um tipo de dado. Ela não pode ser usada
+a não ser que seja instanciada. A exemplo dos tipos de
+dados primitivos os quais somente podem ser usados 
+quando uma variável de um determinado tipo é declarada, 
+devemos criar uma instância
+
+12) Cite 5 areas onde encontramos a linguagem de programação Java.
+
+Desenvolvimento de jogos.
+Computação em nuvem. 
+Big data. 
+Inteligência artificial. 
+Internet das Coisas.
+
+13) Explique com suas palavras o que é o conceito de Case Sensitity.
+
+Case-sensitive significa que caracteres em caixa alta e em caixa
+baixa são tratados de modo diferente. Por exemplo, as palavras 
+myNum e nymun são consideradas diferentes.
